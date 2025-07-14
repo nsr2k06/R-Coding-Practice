@@ -4,19 +4,19 @@ This repository contains all the projects, exercises, and practice code complete
 
 ## Folder Structure
 
-- **Basic/**  
+- **Basic**  
   Covers fundamental R programming concepts and syntax.
 
-- **Control Statement/**  
+- **Control Statement**  
   Contains examples of control flow statements such as `if-else` conditions and loops.
 
-- **Functions/**  
+- **Functions**  
   Includes practice code for defining and using functions in R.
 
-- **Data Structures/**  
+- **Data Structures**  
   Demonstrates usage of R data structures like vectors, lists, matrices, and data frames.
 
-- **Graphs/**  
+- **Graphs**  
   Contains scripts related to data visualization and plotting using R.
 
 ## Getting Started
@@ -24,3 +24,19 @@ This repository contains all the projects, exercises, and practice code complete
 To use this repository:
 
 1. Clone the repository to your local machine:  
+  git clone https://github.com/yourusername/your-repo-name.git
+
+2. Open the relevant scripts in your preferred R environment, such as RStudio.
+
+3. Run the code and explore the examples to practice and deepen your understanding.
+
+## Author
+
+Nitin Singh Rajput
+
+---
+
+*Happy Learning!*
+
+
+
