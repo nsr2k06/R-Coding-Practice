@@ -1,15 +1,26 @@
 # R Programming Bootcamp for Absolute Beginners
 
-This repository contains all the projects and practice code completed during the **R Programming Bootcamp for Absolute Beginners** course.
+This repository contains all the projects, exercises, and practice code completed during the **R Programming Bootcamp for Absolute Beginners** course.
 
 ## Folder Structure
 
-- **Basic/**: Basic R programming concepts and syntax  
-- **Control Statement/**: Examples of control flow statements like if-else and loops  
-- **Functions/**: Practice code for creating and using functions  
-- **Data Structures/**: Examples of vectors, lists, matrices, data frames, and other data structures  
-- **Graphs/**: Data visualization and plotting scripts  
+- **Basic/**  
+  Covers fundamental R programming concepts and syntax.
 
-## How to Use
+- **Control Statement/**  
+  Contains examples of control flow statements such as `if-else` conditions and loops.
 
-1. Clone the repository:  
+- **Functions/**  
+  Includes practice code for defining and using functions in R.
+
+- **Data Structures/**  
+  Demonstrates usage of R data structures like vectors, lists, matrices, and data frames.
+
+- **Graphs/**  
+  Contains scripts related to data visualization and plotting using R.
+
+## Getting Started
+
+To use this repository:
+
+1. Clone the repository to your local machine:  
